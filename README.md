@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranjal Solanke</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align>="right alt"="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
+<img align>="right alt"="coding" width="400" src="https://images.app.goo.gl/ZQh4ctr7wxU19fw19"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalsolanke&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalsolanke" /> </p>
 
